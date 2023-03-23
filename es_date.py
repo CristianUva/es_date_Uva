@@ -1,7 +1,7 @@
 #3M Uva Cristian 
-#Esercizio 1 Stampo data corrente
+#Importo la libreria
 import datetime
-
+#Esercizio 1 Stampo data corrente
 x = datetime.datetime.now()
 print(x)
 #Esercizio 2 Creo un adata con il mio compleanno
